@@ -1,1 +1,1 @@
-# mit-seagrant-drifter
+# MIT Sea Grant Drifter Electronics
